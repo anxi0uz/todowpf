@@ -5,16 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:todowpf.Windows"
         mc:Ignorable="d"
-        Title="TodoWindow" Height="450" Width="800">
+        Title="TodoWindow" Height="450" Width="800" Background="White">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="600"></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        <Button Grid.Column="2" Grid.Row="0" Background="Black" Foreground="White" Command="{Binding GetTodosCommand}">Обновить
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="0" Background="Black" Foreground="White" >Выйти
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
         <TextBlock Text="{Binding Token}" Grid.Row="0" Grid.Column="0"></TextBlock>
+        <DataGrid Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Todos}"></DataGrid>
     </Grid>
 </Window>

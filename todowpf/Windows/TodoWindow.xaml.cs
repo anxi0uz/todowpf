@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using todowpf.Services;
+using todowpf.ViewModels;
 
 namespace todowpf.Windows
 {
@@ -20,9 +21,13 @@ namespace todowpf.Windows
     /// </summary>
     public partial class TodoWindow : Window
     {
-        public TodoWindow(ITokenStorage storage)
+        //public TodoWindow(TodoViewModel viewModel)
+        //{
+        //    this.DataContext = viewModel;
+        //    InitializeComponent();
+        //}
+        public TodoWindow()
         {
-            this.DataContext = storage;
             InitializeComponent();
         }
     }

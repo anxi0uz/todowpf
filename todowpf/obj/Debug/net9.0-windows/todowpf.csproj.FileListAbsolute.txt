@@ -39,3 +39,4 @@ C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-wi
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\LoginWindow.baml
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\todowpf.sourcelink.json

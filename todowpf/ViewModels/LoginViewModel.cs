@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using todowpf.Abstractions;
 using todowpf.Models;
 using todowpf.Services;
 using todowpf.Windows;
@@ -14,17 +15,19 @@ namespace todowpf.ViewModels
 {
     public partial class LoginViewModel : ObservableObject
     {
+        private readonly INavigationService navigationService;
         [ObservableProperty]
         private string _username = string.Empty;
 
         [ObservableProperty]
         private string _password = string.Empty;
 
-        public LoginViewModel(IAuthService authService, ITokenStorage storage, TodoWindow window) 
+        public LoginViewModel(IAuthService authService, ITokenStorage storage, TodoWindow window, INavigationService navigationService) 
         {
             AuthService = authService;
             Storage = storage;
             Window = window;
+            this.navigationService = navigationService;
         }
 
         public IAuthService AuthService { get; }
@@ -51,7 +54,7 @@ namespace todowpf.ViewModels
                 if (response != null)
                 {
                     Storage.Token = response.AccessToken;
-                    Window.Show();
+                    navigationService.Navigate<TodoWindow, TodoViewModel>();
                 }
                 else
                 {

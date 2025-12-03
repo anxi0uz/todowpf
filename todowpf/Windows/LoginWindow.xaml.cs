@@ -20,9 +20,13 @@ namespace todowpf.Windows
     /// </summary>
     public partial class LoginWindow : Window
     {
-        public LoginWindow(LoginViewModel view)
+        //public LoginWindow(LoginViewModel view)
+        //{
+        //    this.DataContext = view;
+        //    InitializeComponent();
+        //}
+        public LoginWindow()
         {
-            this.DataContext = view;
             InitializeComponent();
         }
     }
