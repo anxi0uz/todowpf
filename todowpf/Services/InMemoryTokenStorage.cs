@@ -11,6 +11,10 @@ namespace todowpf.Services
         public string Token { get; set; }
 
         public int UserId { get; set; }
-        public void Clear() => Token = string.Empty;
+        public void Clear()
+        {
+            Token = string.Empty;
+            UserId = 0;
+        }
     }
 }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\
+E:\web dev\todowpf\todowpf\obj\Debug\net9.0-windows\
 todowpf
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\App.xaml
-51458424215
+E:\web dev\todowpf\todowpf\App.xaml
+5-1042697344
 
-25-464451348
-2191806509411
-MainWindow.xaml;Windows\AddTodo.xaml;Windows\DeleteTodo.xaml;Windows\LoginWindow.xaml;Windows\TodoWindow.xaml;
+271937640324
+219103506776
+MainWindow.xaml;Windows\AddTodo.xaml;Windows\EditTodo.xaml;Windows\LoginWindow.xaml;Windows\TodoWindow.xaml;
 
 True
 

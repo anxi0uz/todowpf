@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:todowpf.Windows"
         mc:Ignorable="d"
-        Title="TodoWindow" Height="450" Width="800" Background="White">
+        Title="TodoWindow" Height="450" Width="800" Background="White" >
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"></RowDefinition>
@@ -23,15 +23,20 @@
                 </Style>
             </Button.Resources>
         </Button>
-        <Button Grid.Column="0" Grid.Row="0" Background="Black" Foreground="White" >Выйти
+        <Button Grid.Column="0" Grid.Row="0" Background="Black" Foreground="White" Command="{Binding LogoutCommand}">Выйти
             <Button.Resources>
                 <Style TargetType="Border">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <TextBlock Text="{Binding Token}" Grid.Row="0" Grid.Column="0"></TextBlock>
-        <DataGrid Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Todos}"></DataGrid>
+        <DataGrid Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Todos}" x:Name="MyDataGrid" IsReadOnly="True">
+            <DataGrid.InputBindings>
+                <MouseBinding MouseAction="LeftDoubleClick" 
+                      Command="{Binding DoubleClickCommand}"
+                              CommandParameter="{Binding SelectedItem, RelativeSource={RelativeSource AncestorType=DataGrid}}"/>
+            </DataGrid.InputBindings>   
+        </DataGrid>
         <Grid Grid.Row="1" Grid.Column="2">
             <Grid.RowDefinitions>
                 <RowDefinition Height="50"></RowDefinition>
@@ -39,13 +44,6 @@
                 <RowDefinition Height="50"></RowDefinition>
             </Grid.RowDefinitions>
             <Button Grid.Column="0" Grid.Row="0" Background="Black" Foreground="White" Command="{Binding CreateTodoCommand}">Добавить
-                <Button.Resources>
-                    <Style TargetType="Border">
-                        <Setter Property="CornerRadius" Value="10"/>
-                    </Style>
-                </Button.Resources>
-            </Button>
-            <Button Grid.Column="0" Grid.Row="1" Background="Black" Foreground="White" Command="{Binding DeleteTodoCommand}">Удалить
                 <Button.Resources>
                     <Style TargetType="Border">
                         <Setter Property="CornerRadius" Value="10"/>

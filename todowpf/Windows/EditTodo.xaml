@@ -1,0 +1,47 @@
+﻿<Window x:Class="todowpf.Windows.EditTodo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:todowpf.Windows"
+        mc:Ignorable="d"
+        Title="EditTodo" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="1" Grid.ColumnSpan="3" FontSize="24" FontFamily="Times New Roman" FontWeight="Bold" HorizontalAlignment="Center">Просмотреть заявку</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="10">Id</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="10">Name</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="0" Margin="10">Description</TextBlock>
+        <TextBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Margin="10" Text="{Binding Id}"></TextBox>
+        <TextBox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="4" Margin="10" Text="{Binding Name}"></TextBox>
+        <TextBox Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" Margin="10" Text="{Binding Description}"></TextBox>
+        <Button Grid.Column="3" Grid.Row="5" Margin="5" Command="{Binding UpdateTodoCommand}">Сохранить
+        <Button.Resources>
+            <Style TargetType="Border">
+                <Setter Property="CornerRadius" Value="10"/>
+            </Style>
+            </Button.Resources>
+        </Button>
+        <Button Grid.Column="4" Grid.Row="5" Margin="5" Command="{Binding DeleteTodoCommand}">Удалить
+            <Button.Resources>
+            <Style TargetType="Border">
+                <Setter Property="CornerRadius" Value="10"/>
+            </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

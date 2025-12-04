@@ -23,7 +23,7 @@ namespace todowpf.ViewModels
         [ObservableProperty]
         private string _password = string.Empty;
 
-        public LoginViewModel(IAuthService authService, ITokenStorage storage, TodoWindow window, INavigationService navigationService) 
+        public LoginViewModel(IAuthService authService, ITokenStorage storage, TodoWindow window, INavigationService navigationService)
         {
             AuthService = authService;
             Storage = storage;
@@ -67,10 +67,15 @@ namespace todowpf.ViewModels
                 }
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show($"Ошибка братуха: {ex.Message}");
             }
         }
+
+
+        
     }
 }
+
+

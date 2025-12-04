@@ -1,0 +1,20 @@
+﻿todowpf
+
+
+winexe
+C#
+.cs
+E:\web dev\todowpf\todowpf\obj\Release\net9.0-windows\
+todowpf
+none
+false
+TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+E:\web dev\todowpf\todowpf\App.xaml
+51458424215
+
+232077554908
+219103506776
+MainWindow.xaml;Windows\AddTodo.xaml;Windows\DeleteTodo.xaml;Windows\LoginWindow.xaml;Windows\TodoWindow.xaml;
+
+True
+

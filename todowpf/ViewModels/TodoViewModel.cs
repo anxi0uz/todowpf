@@ -21,21 +21,25 @@ namespace todowpf.ViewModels
         [ObservableProperty]
         public ObservableCollection<Todo> todos = new ObservableCollection<Todo>();
         private readonly HttpClient _client;
+        private readonly ITokenStorage storage;
+        private readonly ISelectedTodoService todoService;
         private readonly INavigationService navigationService;
 
-        public TodoViewModel(IHttpClientFactory factory, ITokenStorage storage, INavigationService navigation, INavigationService navigationService)
+        public TodoViewModel(IHttpClientFactory factory, ITokenStorage storage, ISelectedTodoService todoService, INavigationService navigationService)
         {
             _client = factory.CreateClient("Api");
+            this.storage = storage;
+            this.todoService = todoService;
             this.navigationService = navigationService;
             GetTodos();
         }
         [RelayCommand]
         public async Task GetTodos()
         { 
-            //_client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _storage.Token);
-             var todos = await _client.GetFromJsonAsync<List<Todo>>("/todo/1");
+             var todos = await _client.GetFromJsonAsync<List<Todo>>($"/todo/{storage.UserId}");
             if (todos.Any())
             {
+                this.todos.Clear();
                 foreach (var todo in todos)
                 {
                     this.todos.Add(todo);
@@ -48,9 +52,19 @@ namespace todowpf.ViewModels
             navigationService.Navigate<AddTodo, AddTodoViewModel>();
         }
         [RelayCommand]
-        public async Task DeleteTodo()
+        public async Task DoubleClick(object? parametr)
         {
-            navigationService.Navigate<DeleteTodo, DeleteTodoViewModel>();
+            if (parametr is Todo todo)
+            {
+                todoService.Todo = todo;
+                navigationService.Navigate<EditTodo, EditTodoViewModel>();   
+            }
+        }
+        [RelayCommand]
+        public async Task Logout()
+        {
+            storage.Clear();
+            navigationService.Navigate<LoginWindow, LoginViewModel>();
         }
     }
 }
