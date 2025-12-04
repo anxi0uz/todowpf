@@ -31,6 +31,10 @@ namespace todowpf
             serviceCollection.AddTransient<LoginViewModel>();
             serviceCollection.AddSingleton<INavigationService, NavigationService>();
             serviceCollection.AddSingleton<ITokenStorage, InMemoryTokenStorage>();
+            serviceCollection.AddSingleton<AddTodo>();
+            serviceCollection.AddSingleton<DeleteTodo>();
+            serviceCollection.AddTransient<DeleteTodoViewModel>();
+            serviceCollection.AddTransient<AddTodoViewModel>();
             ServiceProvider = serviceCollection.BuildServiceProvider();
             //var login = ServiceProvider.GetRequiredService<LoginWindow>();
             //login.Show();

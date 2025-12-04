@@ -9,8 +9,10 @@ using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text;
 using System.Threading.Tasks;
+using todowpf.Abstractions;
 using todowpf.Models;
 using todowpf.Services;
+using todowpf.Windows;
 
 namespace todowpf.ViewModels
 {
@@ -19,12 +21,12 @@ namespace todowpf.ViewModels
         [ObservableProperty]
         public ObservableCollection<Todo> todos = new ObservableCollection<Todo>();
         private readonly HttpClient _client;
-        private readonly ITokenStorage _storage;
+        private readonly INavigationService navigationService;
 
-        public TodoViewModel(IHttpClientFactory factory, ITokenStorage storage)
+        public TodoViewModel(IHttpClientFactory factory, ITokenStorage storage, INavigationService navigation, INavigationService navigationService)
         {
             _client = factory.CreateClient("Api");
-            this._storage = storage;
+            this.navigationService = navigationService;
             GetTodos();
         }
         [RelayCommand]
@@ -39,6 +41,16 @@ namespace todowpf.ViewModels
                     this.todos.Add(todo);
                 }
             }
+        }
+        [RelayCommand]
+        public async Task CreateTodo()
+        {
+            navigationService.Navigate<AddTodo, AddTodoViewModel>();
+        }
+        [RelayCommand]
+        public async Task DeleteTodo()
+        {
+            navigationService.Navigate<DeleteTodo, DeleteTodoViewModel>();
         }
     }
 }

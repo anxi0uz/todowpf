@@ -32,5 +32,26 @@
         </Button>
         <TextBlock Text="{Binding Token}" Grid.Row="0" Grid.Column="0"></TextBlock>
         <DataGrid Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Todos}"></DataGrid>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Grid.Column="0" Grid.Row="0" Background="Black" Foreground="White" Command="{Binding CreateTodoCommand}">Добавить
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Grid.Column="0" Grid.Row="1" Background="Black" Foreground="White" Command="{Binding DeleteTodoCommand}">Удалить
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
     </Grid>
 </Window>

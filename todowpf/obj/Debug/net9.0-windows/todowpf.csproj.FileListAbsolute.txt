@@ -40,3 +40,12 @@ C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-wi
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\todowpf.sourcelink.json
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\AddTodo.g.cs
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\AddTodo.baml
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\DeleteTodo.g.cs
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\DeleteTodo.baml

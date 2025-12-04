@@ -5,6 +5,12 @@
     <Compile Update="MainWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Windows\AddTodo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\DeleteTodo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Windows\LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

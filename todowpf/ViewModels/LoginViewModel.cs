@@ -2,6 +2,7 @@
 using CommunityToolkit.Mvvm.Input;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -53,6 +54,10 @@ namespace todowpf.ViewModels
                 var response = await AuthService.Login(model);
                 if (response != null)
                 {
+                    var handler = new JwtSecurityTokenHandler();
+                    var jwtToken = handler.ReadJwtToken(response.AccessToken);
+                    jwtToken.Payload.TryGetValue("userid", out var userid);
+                    Storage.UserId = Convert.ToInt32(userid);
                     Storage.Token = response.AccessToken;
                     navigationService.Navigate<TodoWindow, TodoViewModel>();
                 }
