@@ -47,8 +47,6 @@ C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-wi
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\AddTodo.g.cs
 C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\AddTodo.baml
-C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\DeleteTodo.g.cs
-C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\DeleteTodo.baml
 E:\web dev\todowpf\todowpf\bin\Debug\net9.0-windows\todowpf.exe
 E:\web dev\todowpf\todowpf\bin\Debug\net9.0-windows\todowpf.deps.json
 E:\web dev\todowpf\todowpf\bin\Debug\net9.0-windows\todowpf.runtimeconfig.json
@@ -100,3 +98,5 @@ E:\web dev\todowpf\todowpf\obj\Debug\net9.0-windows\refint\todowpf.dll
 E:\web dev\todowpf\todowpf\obj\Debug\net9.0-windows\todowpf.pdb
 E:\web dev\todowpf\todowpf\obj\Debug\net9.0-windows\todowpf.genruntimeconfig.cache
 E:\web dev\todowpf\todowpf\obj\Debug\net9.0-windows\ref\todowpf.dll
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\EditTodo.g.cs
+C:\Users\user452.CHENK\Documents\worldskills\todowpf\todowpf\obj\Debug\net9.0-windows\Windows\EditTodo.baml

@@ -21,7 +21,7 @@ namespace todowpf
         {
             var serviceCollection = new ServiceCollection();
             serviceCollection
-                .AddHttpClient<HttpClient>("Api",opt => opt.BaseAddress = new Uri("https://localhost:7068"))
+                .AddHttpClient<HttpClient>("Api", opt => opt.BaseAddress = new Uri("https://localhost:7068"))
                 .AddHttpMessageHandler<AuthorizationMessageHandler>(); ;
             serviceCollection.AddSingleton<LoginWindow>();
             serviceCollection.AddTransient<AuthorizationMessageHandler>();
@@ -32,7 +32,7 @@ namespace todowpf
             serviceCollection.AddSingleton<INavigationService, NavigationService>();
             serviceCollection.AddSingleton<ITokenStorage, InMemoryTokenStorage>();
             serviceCollection.AddSingleton<AddTodo>();
-            serviceCollection.AddSingleton<ISelectedTodoService, SelectedTodoService>();    
+            serviceCollection.AddSingleton<ISelectedTodoService, SelectedTodoService>();
             serviceCollection.AddSingleton<EditTodo>();
             serviceCollection.AddTransient<EditTodoViewModel>();
             serviceCollection.AddTransient<AddTodoViewModel>();

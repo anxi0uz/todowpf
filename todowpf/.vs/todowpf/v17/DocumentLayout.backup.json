@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\web dev\\todowpf\\todowpf\\",
+  "WorkspaceRootPath": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\services\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\viewmodels\\edittodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\viewmodels\\edittodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\edittodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\services\\authorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\authorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\edittodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\edittodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\addtodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\addtodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\viewmodels\\addtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\addtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\services\\selectedtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\selectedtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\addtodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\addtodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\models\\todorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\services\\authorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\authorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\edittodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\edittodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\services\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\addtodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\addtodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\viewmodels\\addtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:viewmodels\\addtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\services\\selectedtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\selectedtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\addtodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\addtodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\windows\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:windows\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\models\\todorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:models\\todorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|e:\\web dev\\todowpf\\todowpf\\abstractions\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|c:\\users\\user452.chenk\\documents\\worldskills\\todowpf\\todowpf\\abstractions\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E57900-3708-45B0-8221-BECCFEA8273C}|todowpf.csproj|solutionrelative:abstractions\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,114 +115,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TodoWindow.xaml",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\TodoWindow.xaml",
-              "RelativeDocumentMoniker": "Windows\\TodoWindow.xaml",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\TodoWindow.xaml",
-              "RelativeToolTip": "Windows\\TodoWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T11:23:21.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:45:18.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\LoginViewModel.cs*",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAvwEwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T08:28:14.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditTodoViewModel.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\EditTodoViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EditTodoViewModel.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\EditTodoViewModel.cs",
-              "RelativeToolTip": "ViewModels\\EditTodoViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwDMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:51:02.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddTodo.xaml",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\AddTodo.xaml",
-              "RelativeDocumentMoniker": "Windows\\AddTodo.xaml",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\AddTodo.xaml",
-              "RelativeToolTip": "Windows\\AddTodo.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T11:25:30.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InMemoryTokenStorage.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Services\\InMemoryTokenStorage.cs",
-              "RelativeDocumentMoniker": "Services\\InMemoryTokenStorage.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Services\\InMemoryTokenStorage.cs",
-              "RelativeToolTip": "Services\\InMemoryTokenStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:25:09.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "TodoViewModel.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\TodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\TodoViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\TodoViewModel.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\TodoViewModel.cs*",
-              "RelativeToolTip": "ViewModels\\TodoViewModel.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwD8AAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\TodoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TodoViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T08:10:54.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "NavigationService.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Services\\NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "Services\\NavigationService.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\NavigationService.cs",
               "RelativeToolTip": "Services\\NavigationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:55:15.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:55:15.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AuthorizationMessageHandler.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Services\\AuthorizationMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\AuthorizationMessageHandler.cs",
               "RelativeDocumentMoniker": "Services\\AuthorizationMessageHandler.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Services\\AuthorizationMessageHandler.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\AuthorizationMessageHandler.cs",
               "RelativeToolTip": "Services\\AuthorizationMessageHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T08:28:07.518Z",
               "EditorCaption": ""
@@ -230,22 +153,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "Windows\\LoginWindow.xaml",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\LoginWindow.xaml",
-              "RelativeToolTip": "Windows\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T11:38:56.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "EditTodo.xaml",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\EditTodo.xaml",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\EditTodo.xaml",
               "RelativeDocumentMoniker": "Windows\\EditTodo.xaml",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\EditTodo.xaml",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\EditTodo.xaml",
               "RelativeToolTip": "Windows\\EditTodo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-04T16:41:22.003Z",
@@ -253,37 +164,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SelectedTodo.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Services\\SelectedTodo.cs",
-              "RelativeDocumentMoniker": "Services\\SelectedTodo.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Services\\SelectedTodo.cs",
-              "RelativeToolTip": "Services\\SelectedTodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwEwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:55:07.053Z",
+              "WhenOpened": "2025-12-04T08:28:14.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddTodoViewModel.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\AddTodoViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\AddTodoViewModel.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\ViewModels\\AddTodoViewModel.cs",
-              "RelativeToolTip": "ViewModels\\AddTodoViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCsAAAArAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:36:00.084Z",
+              "WhenOpened": "2025-12-04T11:45:18.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:34:30.474Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:28:37.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\EditTodoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\EditTodoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditTodoViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:51:02.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\TodoWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\TodoWindow.xaml",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\TodoWindow.xaml",
+              "RelativeToolTip": "Windows\\TodoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T11:23:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryTokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\InMemoryTokenStorage.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryTokenStorage.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\InMemoryTokenStorage.cs",
+              "RelativeToolTip": "Services\\InMemoryTokenStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:25:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddTodo.xaml",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\AddTodo.xaml",
+              "RelativeDocumentMoniker": "Windows\\AddTodo.xaml",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\AddTodo.xaml",
+              "RelativeToolTip": "Windows\\AddTodo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T11:25:30.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T11:38:56.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectedTodo.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\SelectedTodo.cs",
+              "RelativeDocumentMoniker": "Services\\SelectedTodo.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\SelectedTodo.cs",
+              "RelativeToolTip": "Services\\SelectedTodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:55:07.053Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AddTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\AddTodoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\ViewModels\\AddTodoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddTodoViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:36:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\App.xaml",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-04T16:56:03.531Z",
@@ -291,37 +309,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:28:49.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthRequest.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Models\\AuthRequest.cs",
-              "RelativeDocumentMoniker": "Models\\AuthRequest.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Models\\AuthRequest.cs",
-              "RelativeToolTip": "Models\\AuthRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:39:04.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:28:49.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "Models\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:39:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AddTodo.xaml.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\AddTodo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\AddTodo.xaml.cs",
               "RelativeDocumentMoniker": "Windows\\AddTodo.xaml.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\AddTodo.xaml.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\AddTodo.xaml.cs",
               "RelativeToolTip": "Windows\\AddTodo.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +345,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "TodoWindow.xaml.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\TodoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\TodoWindow.xaml.cs",
               "RelativeDocumentMoniker": "Windows\\TodoWindow.xaml.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\TodoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Windows\\TodoWindow.xaml.cs",
               "RelativeToolTip": "Windows\\TodoWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -341,23 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Windows\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Windows\\LoginWindow.xaml.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Windows\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "Windows\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:28:37.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,23 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "Models\\Todo.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Models\\Todo.cs",
-              "RelativeToolTip": "Models\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T11:34:30.474Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "TodoRequest.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Models\\TodoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\TodoRequest.cs",
               "RelativeDocumentMoniker": "Models\\TodoRequest.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Models\\TodoRequest.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Models\\TodoRequest.cs",
               "RelativeToolTip": "Models\\TodoRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,9 +383,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ITokenStorage.cs",
-              "DocumentMoniker": "E:\\web dev\\todowpf\\todowpf\\Abstractions\\ITokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Abstractions\\ITokenStorage.cs",
               "RelativeDocumentMoniker": "Abstractions\\ITokenStorage.cs",
-              "ToolTip": "E:\\web dev\\todowpf\\todowpf\\Abstractions\\ITokenStorage.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\worldskills\\todowpf\\todowpf\\Abstractions\\ITokenStorage.cs",
               "RelativeToolTip": "Abstractions\\ITokenStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
